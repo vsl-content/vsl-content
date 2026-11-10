@@ -1,4 +1,4 @@
-{
+﻿{
     "app_version":  "1.0.0",
     "latest_chapter":  3,
     "chapters":  [
@@ -6,27 +6,27 @@
                          "id":  1,
                          "title_fa":  "فصل اول: تفکر و تجربه",
                          "title_en":  "Chapter 1: Thinking \u0026 Experience",
-                         "url":  "https://raw.githubusercontent.com/vsl-content/vsl-content/main/ch1.zip",
-                         "sha256":  "74fa5a1d17d1dc7059fed43b6baf4cc176e9b839c4809a08d66c44a64b81a2d9",
-                         "size_bytes":  6620,
+                         "url":  "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/ch1.zip",
+                         "sha256":  "842be1488f4fe04370740c91e689b396e78fd09190eba19f9e9034bfe76bc75d",
+                         "size_bytes":  15595,
                          "updated_at":  "2026-11-10"
                      },
                      {
                          "id":  2,
                          "title_fa":  "فصل دوم: اندازه‌گیری",
                          "title_en":  "Chapter 2: Measurement",
-                         "url":  "https://raw.githubusercontent.com/vsl-content/vsl-content/main/ch2.zip",
-                         "sha256":  "f5913c406aa473c53aff8a888f0d8a7b5ab835b0074c9e47f3852136cdafc87e",
-                         "size_bytes":  5614,
+                         "url":  "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/ch2.zip",
+                         "sha256":  "b45e267f7df4ce71f39600f1049616116e5d93d92deb167f4862e6403352077a",
+                         "size_bytes":  15683,
                          "updated_at":  "2026-11-10"
                      },
                      {
                          "id":  3,
-                         "title_fa":  "فصل سوم: اتم‌ها؛ الفبای مواد",
+                         "title_fa":  "فصل سوم: اتم‌ها",
                          "title_en":  "Chapter 3: Atoms",
-                         "url":  "https://raw.githubusercontent.com/vsl-content/vsl-content/main/ch3.zip",
-                         "sha256":  "9aa1996e126cf5fc978b77ecc2821264838ecf6b44d05ad9590f7408aa856def",
-                         "size_bytes":  7012,
+                         "url":  "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/ch3.zip",
+                         "sha256":  "2cbdd4941a1dd25eecf4f892dcd1bde995b2159e5770e24156aeab56b4d9e23f",
+                         "size_bytes":  16811,
                          "updated_at":  "2026-11-10"
                      }
                  ]
