@@ -1,33 +1,35 @@
 {
-  "app_version": "1.0.0",
-  "latest_chapter": 3,
-  "chapters": [
-    {
-      "id": 1,
-      "title_fa": "فصل اول: تفکر و تجربه",
-      "title_en": "Chapter 1: Thinking & Experience",
-      "url": "https://raw.githubusercontent.com/USERNAME/vsl-content/main/ch1.zip",
-      "sha256": "eef55372ca22cc318fada2a239e754607a97971d4232293babd6263b3ab48e4e",
-      "size_bytes": 6620,
-      "updated_at": "2026-11-10"
-    },
-    {
-      "id": 2,
-      "title_fa": "فصل دوم: اندازه‌گیری",
-      "title_en": "Chapter 2: Measurement",
-      "url": "https://raw.githubusercontent.com/USERNAME/vsl-content/main/ch2.zip",
-      "sha256": "cfbcfc8cd0fd049bc228a1b3609085dd584e464ba659abf8137b6276b73b3f15",
-      "size_bytes": 5614,
-      "updated_at": "2026-11-10"
-    },
-    {
-      "id": 3,
-      "title_fa": "فصل سوم: اتم‌ها؛ الفبای مواد",
-      "title_en": "Chapter 3: Atoms",
-      "url": "https://raw.githubusercontent.com/USERNAME/vsl-content/main/ch3.zip",
-      "sha256": "56dd89824a7d75edd5cdfb58529f91acaba42e261bd07ab5c999506bc2232c25",
-      "size_bytes": 7012,
-      "updated_at": "2026-11-10"
-    }
-  ]
+    "app_version":  "1.0.0",
+    "latest_chapter":  3,
+    "chapters":  [
+                     {
+                         "id":  1,
+                         "title_fa":  "فصل اول: تفکر و تجربه",
+                         "title_en":  "Chapter 1: Thinking \u0026 Experience",
+                         "url":  "https://raw.githubusercontent.com/vsl-content/vsl-content/main/ch1.zip",
+                         "sha256":  "bf719748da190beee5d8888286fadf247b64f5cc0604ec837d728573e93fa933",
+                         "size_bytes":  6620,
+                         "updated_at":  "2026-11-10"
+                     },
+                     {
+                         "id":  2,
+                         "title_fa":  "فصل دوم: اندازه‌گیری",
+                         "title_en":  "Chapter 2: Measurement",
+                         "url":  "https://raw.githubusercontent.com/vsl-content/vsl-content/main/ch2.zip",
+                         "sha256":  "47a096f4da3fddfae5fc192e4731088184c6cb37a33526b5c69bcd6be3b75e05",
+                         "size_bytes":  5614,
+                         "updated_at":  "2026-11-10"
+                     },
+                     {
+                         "id":  3,
+                         "title_fa":  "فصل سوم: اتم‌ها؛ الفبای مواد",
+                         "title_en":  "Chapter 3: Atoms",
+                         "url":  "https://raw.githubusercontent.com/vsl-content/vsl-content/main/ch3.zip",
+                         "sha256":  "6e222fe5b590ac15635724d8571301c969c06b4355051ca24687ce1558471fa0",
+                         "size_bytes":  7012,
+                         "updated_at":  "2026-11-10"
+                     }
+                 ]
 }
+
+
