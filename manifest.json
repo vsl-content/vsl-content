@@ -6,28 +6,28 @@
                          "id":  1,
                          "title_fa":  "فصل اول: تفکر و تجربه",
                          "title_en":  "Chapter 1: Thinking \u0026 Experience",
-                         "url":  "https://raw.githubusercontent.com/vsl-content/vsl-content/main/ch1.zip",
-                         "sha256":  "842be1488f4fe04370740c91e689b396e78fd09190eba19f9e9034bfe76bc75d",
-                         "size_bytes":  15595,
-                         "updated_at":  "2026-11-10"
+                         "url":  "https://raw.githubusercontent.com/نامکاربری/ناممخزن/main/ch1.zip",
+                         "sha256":  "0c05ee061b61155455feabb0e9566342bd52deaff6f5454a9b8296fa411f3ec9",
+                         "size_bytes":  10027,
+                         "updated_at":  "2026-11-11"
                      },
                      {
                          "id":  2,
                          "title_fa":  "فصل دوم: اندازه‌گیری",
                          "title_en":  "Chapter 2: Measurement",
-                         "url":  "https://raw.githubusercontent.com/vsl-content/vsl-content/main/ch2.zip",
-                         "sha256":  "b45e267f7df4ce71f39600f1049616116e5d93d92deb167f4862e6403352077a",
-                         "size_bytes":  15683,
-                         "updated_at":  "2026-11-10"
+                         "url":  "https://raw.githubusercontent.com/نامکاربری/ناممخزن/main/ch2.zip",
+                         "sha256":  "928ca6d71deb684667693fbab0490c2f453c8f1782a7034e9a0017fd342aa3b7",
+                         "size_bytes":  9950,
+                         "updated_at":  "2026-11-11"
                      },
                      {
                          "id":  3,
                          "title_fa":  "فصل سوم: اتم‌ها",
                          "title_en":  "Chapter 3: Atoms",
-                         "url":  "https://raw.githubusercontent.com/vsl-content/vsl-content/main/ch3.zip",
-                         "sha256":  "2cbdd4941a1dd25eecf4f892dcd1bde995b2159e5770e24156aeab56b4d9e23f",
-                         "size_bytes":  16811,
-                         "updated_at":  "2026-11-10"
+                         "url":  "https://raw.githubusercontent.com/نامکاربری/ناممخزن/main/ch3.zip",
+                         "sha256":  "c02fd9630ab076304774cdf6ce53370ab6a883ccf35885e93e5ea45807381bb7",
+                         "size_bytes":  20487,
+                         "updated_at":  "2026-11-11"
                      }
                  ]
 }
